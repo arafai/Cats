@@ -17,3 +17,5 @@ dist
 /.cache-main
 /.cache-tests
 attachments/
+*.class
+*.log
